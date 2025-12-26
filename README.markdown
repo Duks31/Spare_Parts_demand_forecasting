@@ -30,4 +30,4 @@ This project focuses on forecasting demand for spare parts and analyzing associa
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, feel free to reach out via [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
+For questions or feedback, feel free to reach out via [chidubemjan31@gmail.com](mailto:chidubemjan31@gmail.com) or open an issue on GitHub.
